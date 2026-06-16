@@ -38,7 +38,7 @@ Auto Ball is an autobattler — your characters play automatically once the matc
 2. **Start a match** — play online against another player, or test out strategies in sandbox mode.
 3. **Watch it unfold** — your characters chase the ball, defend, and use abilities on their own. Whoever scores more goals wins.
 
-Since this is `v0.1.x`, you're mostly watching matches play out right now — full team-building and progression features are still being built.
+Since this is `v0.1.x`, there is still more to be done. Please stand by as we continue to add new characters, features and balancing.
 
 ## Something Broken?
 
