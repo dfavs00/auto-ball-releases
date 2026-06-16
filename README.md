@@ -34,7 +34,7 @@ Grab the latest version for your platform from the [Releases page](https://githu
 
 Auto Ball is an autobattler — your characters play automatically once the match starts.
 
-1. **Build a team** — select from animal characters, each with their own stats (speed, strength, stamina) and a unique ability.
+1. **Build a team** — buy unit from the shop and place them on the field. Each with their own stats, movement patterns, synergies, (speed, strength, stamina) and a unique ability. Characters with the same synergies grant your team enhancements and stat buffs.
 2. **Start a match** — play online against another player, or test out strategies in sandbox mode.
 3. **Watch it unfold** — your characters chase the ball, defend, and use abilities on their own. Whoever scores more goals wins.
 
