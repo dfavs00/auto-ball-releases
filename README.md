@@ -38,7 +38,7 @@ Auto Ball is an autobattler — your characters play automatically once the matc
 2. **Start a match** — play online against another player, or test out strategies in sandbox mode.
 3. **Watch it unfold** — your characters chase the ball, defend, and use abilities on their own. Whoever scores more goals wins.
 
-The current roster includes **Dash the Cheetah** and **Ronny the Raccoon**, with more characters and deeper customization coming in future releases. Since this is `v0.1.x`, you're mostly watching matches play out right now — full team-building and progression features are still being built.
+Since this is `v0.1.x`, you're mostly watching matches play out right now — full team-building and progression features are still being built.
 
 ## Something Broken?
 
