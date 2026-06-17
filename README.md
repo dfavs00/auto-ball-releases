@@ -6,7 +6,7 @@ Auto Ball is an arcade soccer **autobattler**. You build a team of animal charac
 
 This repo hosts ready-to-run builds for macOS and Windows.
 
-> **Early access:** Auto Ball is actively in development (currently `v0.2.x`). Expect missing features and rough edges.
+> **Early access:** Auto Ball is actively in development. Expect missing features and rough edges.
 
 ## Download & Install
 
@@ -39,9 +39,9 @@ Auto Ball is an autobattler — your characters play automatically once the matc
 1. **Start a match** — play online against another player, or test out strategies in sandbox mode.
 2. **Build a team** — buy unit from the shop and place them on the field. Each with their own stats, movement patterns, synergies, (speed, strength, stamina) and a unique ability. Characters with the same synergies grant your team enhancements and stat buffs.
 3. **Watch it unfold** — your characters chase the ball, defend, and use abilities on their own. Whoever scores more goals wins.
-4. Repeat until there is a winner. In online play. The team with the most points at the end of 10 matches winsis the winner.
+4. Repeat until there is a winner. In online play, the team with the most points at the end of 10 matches is the winner.
 
-Since this is `v0.2.x`, there is still more to be done. Please stand by as we continue to add new characters, features and balancing.
+Since this is still in development, there is still more to be done. Please stand by as we continue to add new characters, features and balancing.
 
 ## Something Broken?
 
