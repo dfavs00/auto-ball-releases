@@ -4,7 +4,7 @@ Auto Ball is an arcade soccer **autobattler**. You build a team of animal charac
 
 This repo hosts ready-to-run builds for macOS and Windows.
 
-> **Early access:** Auto Ball is actively in development (currently `v0.1.x`). Expect missing features and rough edges.
+> **Early access:** Auto Ball is actively in development (currently `v0.2.x`). Expect missing features and rough edges.
 
 ## Download & Install
 
