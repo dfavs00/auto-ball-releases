@@ -1,5 +1,7 @@
 # Auto Ball
 
+[![Latest Release](https://img.shields.io/github/v/release/dfavs00/auto-ball-releases?label=latest%20release)](https://github.com/dfavs00/auto-ball-releases/releases/latest)
+
 Auto Ball is an arcade soccer **autobattler**. You build a team of animal characters, each with their own stats and abilities, then send them onto the field and watch them play. Your job is picking the right team.
 
 This repo hosts ready-to-run builds for macOS and Windows.
